@@ -219,21 +219,6 @@ Dosya Sistemini İzle
 -   Incident Response
 -   Malware Analizi
 -   Siber Güvenlik Eğitimleri
--   Üniversite Projeleri
-
-------------------------------------------------------------------------
-
-# 🚧 Gelecek Sürümler
-
--   VirusTotal API
--   Telegram Bildirimleri
--   Discord Bildirimleri
--   HTML Raporlama
--   SIEM Entegrasyonu
--   MITRE ATT&CK Eşleştirmesi
--   Süreç Sonlandırma
--   Web Arayüzü
--   Çoklu Canary Klasörü
 
 ------------------------------------------------------------------------
 
