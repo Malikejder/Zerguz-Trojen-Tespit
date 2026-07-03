@@ -146,7 +146,7 @@ Zerguz/
 # 📦 Kurulum
 
 ``` bash
-git clone https://github.com/KULLANICI_ADI/REPO.git
+https://github.com/Malikejder/Zerguz-Trojen-Tespit.git
 
 cd REPO
 
